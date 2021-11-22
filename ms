@@ -64,7 +64,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet RXCE V 2.0'
+    banner='figlet Ms Dhoni
     thisway=[2,6,8,11,12,15,16,18,19,20]
     thatway=[1,3,4,5,7,9,10,14,13,17]
     numbers=[]
@@ -72,7 +72,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print("Contact me on telegram @Karan Rajput")
+        print("Contact me on telegram @Ms Dhoni")
         print("Enter ",newperiod,"  Price :")
         current=input()
         current=int(current)
@@ -123,7 +123,7 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @Karan Rajput")
+            sys.exit(" \n \n \n Contact on Telegram @Ms Dhoni")
             print(numbers)
   
 
@@ -153,7 +153,7 @@ if(expirydate>today):
             period=2
             hero()
     else:
-        banner='figlet Karan Rajput'
+        banner='figlet Ms Dhoni
         print("Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
@@ -163,16 +163,16 @@ if(expirydate>today):
         print(" sept 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @Karan Rajput ")
+        print(" admin on telegram @Ms Dhoni ")
 else:
-    banner='figlet Karan Rajput'
+    banner='figlet Ms Dhoni
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
-    print(" on telegram ----@Karan Rajput for activating")
+    print(" on telegram ----@Ms Dhoni for activating")
     print(" Recharge Amount :        Total limit " )
     print(" 1.     1500 INR -------  15 Day (48 Games Daily ")
     print(" 2.     2000 INR -------  30 Days(1200 Games Daily ")
     print("*---------*----------*-------------*----------*")
     print("Your custom hack can be made request from us.")
-    print( "Msg me on telegram @Karan Rajput")
+    print( "Msg me on telegram @Ms Dhoni")
